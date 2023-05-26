@@ -1,0 +1,13 @@
+.friend{
+    border: 3px solid goldenrod;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(237, 225, 161);
+}
+
+.btns{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
